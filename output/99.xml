@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>99.jpg</filename>
+  <path>./data/dataset/test</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Mango</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>200</xmin>
+      <ymin>165</ymin>
+      <xmax>1407</xmax>
+      <ymax>2433</ymax>
+    </bndbox>
+  </object>
+</annotation>
